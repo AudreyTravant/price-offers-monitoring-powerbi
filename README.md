@@ -17,7 +17,7 @@ souvent moins cher que le prix public. Le rapport, livré chaque mois à la marq
 - se comparer à 3 marques concurrentes
 
 ## Données
-- Offres collectées chaque mois sur environ 480 sites dans le monde (marketplaces et boutiques en ligne), depuis 2021
+- Offres collectées chaque mois sur environ 480 sites dans le monde (marketplaces et boutiques en ligne)
 - Une ligne = une offre : marque, produit, site, vendeur, pays, prix de l'offre, prix public
 - Remise = (prix public − prix de l'offre) / prix public
 - Source : base de données MySQL, chargée avec Power Query
@@ -27,7 +27,6 @@ souvent moins cher que le prix public. Le rapport, livré chaque mois à la marq
 - Construction du nouveau rapport : 10 pages, une question par page, tous les segments dans un panneau à droite
 - Règles de lecture communes : un seul signe pour la remise, une couleur fixe par marque, le rouge = mauvais pour la marque
 - Écriture des nouvelles mesures DAX et organisation (un dossier par page, règles de nommage, documentation)
-- Mise à jour mensuelle du rapport pendant mon stage
 
 ## Mesures DAX clés
 
